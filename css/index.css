@@ -804,6 +804,7 @@ html, body, .swiper-container, .swiper-slide {
     to {
         -webkit-transform: none;
         transform: none;
+        opacity: 1;
     }
 }
 
@@ -838,6 +839,7 @@ html, body, .swiper-container, .swiper-slide {
     to {
         -webkit-transform: none;
         transform: none;
+        opacity: 1;
     }
 }
 
